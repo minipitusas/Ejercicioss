@@ -1,0 +1,7 @@
+package desafios;
+
+public enum e40 {
+	
+
+	MESSI,MARADONA, AYMAR, GALARDO, PALERMO, RIQUELME,VAGONETTA, EITO, LEYBOVICH, RAFO
+}
