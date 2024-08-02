@@ -11,7 +11,7 @@ public class Cuarenttados {
 		double numeroAleatorio = (Math.random()*50);
 		
 		
-		for (int i ; i < 3; i++) {
+		for (int i = 0; i < 3; i++) {
 			System.out.println("Ingrese tres numeros:");
 			numa[i] = entrada.nextInt();
 			
