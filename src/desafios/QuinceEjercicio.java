@@ -22,4 +22,4 @@ public class QuinceEjercicio {
         	System.out.println("El total de tu compra es:" + numero);
         }
 	}
-}!
+}
